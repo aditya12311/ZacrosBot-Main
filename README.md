@@ -16,7 +16,7 @@
 
 ### Description
 Bot ini dibuat menggunakan base dari [`Zobin33`](https://github.com/Zobin33)
-
+bot ini menggunakan script dari ['Zacros-Team'](https://github.com/Zacros-Team)
 Jika ada pertanyaan atau request sesuatu, kamu bisa masukkan issue
 
 ### Changelog
@@ -36,6 +36,10 @@ Added Feature
 > npm i -g
 ```
 
+## Buidpack for heroku
+-ffmpeg = https://github.com/interconnectit/heroku-buildpack-ffmpeg.git
+-imagemagic = https://github.com/mcollina/heroku-buildpack-imagemagick
+
 ## Run Bot
 ```cmd
 $ cd ZacrosBot
@@ -44,6 +48,10 @@ $ node .
 
 ## Yang perlu di edit
 [`./src/botInfo.json`](./src/json/botInfo.json)
+
+## Cara scan
+-bisa pakai termux atau pc buat scan barcode setelah itu ambil sesion frok file ini setelah itu tambahkan di (./src/json/botInfo.json)
+setelah itu pasang di heroku daftar kalu belum punya akun heroku agar bisa akses wabot nya terimakasih sudah membaca saya ucapkan terimakasih -Zacros-Team
 
 ### Owner Number
   `Ex : "62884677889"`<br>
@@ -64,5 +72,5 @@ $ node .
 * [`Lindow Amamiya`](https://github.com/mccnlight) 
 * [`Loli Protector`](https://github.com/Arya-was) 
 * [`Anu Team`](https://chat.whatsapp.com/JMGFxm0SSEF9Ajm0MWJtzh) 
-
+* ['kahashi'](https://github.com/aditya12311)
 
