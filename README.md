@@ -16,6 +16,7 @@
 
 ### Description
 Bot ini dibuat menggunakan base dari [`Zobin33`](https://github.com/Zobin33)
+
 bot ini menggunakan script dari ['Zacros-Team'](https://github.com/Zacros-Team)
 Jika ada pertanyaan atau request sesuatu, kamu bisa masukkan issue
 
@@ -38,6 +39,8 @@ Added Feature
 
 ## Buidpack for heroku
 -ffmpeg = https://github.com/interconnectit/heroku-buildpack-ffmpeg.git
+
+
 -imagemagic = https://github.com/mcollina/heroku-buildpack-imagemagick
 
 ## Run Bot
