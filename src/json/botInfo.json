@@ -1,0 +1,68 @@
+{
+  "botname": "Melly Bot",
+  "ownerNumber": [
+    "6285936697907"
+  ],
+  "website": "https://chat.whatsapp.com/Daecr7HdOKV03e3HDjdLYQ",
+  "settings": {
+    "callBlock": true,
+    "autoRead": true
+  },
+  "linkApi": {
+    "zacros": "https://api.zacros.my.id"
+  },
+  "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
+  "footerText": "© Zacros Team/adit recorder",
+  "prefix": [
+    ".",
+    "!",
+    "#",
+    "_",
+    "/",
+    "+",
+    ","
+  ],
+  "ownername": "Adit",
+  "unicode": {
+    "head": "⬣",
+    "list": "⬡",
+    "body": "┃",
+    "upper": "┏",
+    "down": "┗",
+    "line": "━",
+    "needed": [
+      "<",
+      ">"
+    ],
+    "optional": [
+      "(",
+      ")"
+    ],
+    "wings": [
+      "𓆩 ",
+      " 𓆪"
+    ]
+  },
+  "response": {
+    "owner": "*REJECTED!* | Perintah Ini Khusus Owner",
+    "admin": "*REJECTED!* | Perintah Ini Khusus Admin",
+    "group": "*REJECTED!* | Perintah Ini Khusus Group",
+    "wait": "*WAIT!* | Mohon Tunggu Sebentar...",
+    "private": "*REJECTED!* | Perintah Ini Khusus Private",
+    "notUrl": "*REJECTED!* | Link Invalid",
+    "media": "*REJECTED!* | Pesan Harus Media",
+    "mentioned": "*REJECTED!* | Tag Orang",
+    "quoted": "*REJECTED!* | Tag Pesan",
+    "_media": "*REJECTED!* | Kirim Pesan Media Atau Tag Pesan Yang Terdapat Media",
+    "Error": "*ERROR!* | Terjadi Kesalahan Saat Mengirim Media/Pesan",
+    "fromMe": "*REJECTED!* | Pesan Yang Di Balas Harus Dari Bot",
+    "botAdmin": "*REJECTED!* | Bot Harus Admin"
+  },
+  "session": {
+    "clientID": "lhSAYUml43ZKxrrPc1UmWA==",
+    "serverToken": "1@U9G0Za29ASf5s9lO7bmTsL4Ajp1VZwYOGBCrbewvI/5l2kwfyekTa4x6SO7u5I/Ua9DR41VWLczYAA==",
+    "clientToken": "GuZzUiNSDW/A+MmygyXVqH/cbZYiBGv8x9ZecaIz4KQ=",
+    "encKey": "7xEaAvoUSMePHmK65qViEaQ3rFGXp4kzjKj9R7zHaKk=",
+    "macKey": "TdEwWRIas88oRCj2HJ4LfMIJn4m+OFbszFuAGWn6Fps="
+  }
+}

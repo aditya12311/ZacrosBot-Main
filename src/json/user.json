@@ -1,0 +1,24 @@
+{
+  "6285936697907@s.whatsapp.net": {
+    "jid": "6285936697907@s.whatsapp.net",
+    "notify": "Adit",
+    "name": "No Saya",
+    "short": "No",
+    "id": "6285936697907@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false
+  },
+  "6285163208934@s.whatsapp.net": {
+    "jid": "6285163208934@s.whatsapp.net",
+    "id": "6285163208934@c.us",
+    "isAdmin": true,
+    "isSuperAdmin": true,
+    "name": "Unknown"
+  },
+  "6285856058846@s.whatsapp.net": {
+    "jid": "6285856058846@s.whatsapp.net",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  }
+}
